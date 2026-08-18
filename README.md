@@ -16,7 +16,6 @@ This repository contains all the Java programs I write while learning Java. It i
 
 ### 🚀 Upcoming Topics
 
-- Functions (Methods)
 - Arrays
 - Strings
 - Bit Manipulation
