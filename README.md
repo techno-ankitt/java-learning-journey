@@ -12,6 +12,7 @@ This repository contains all the Java programs I write while learning Java. It i
 - ✅ Conditional Statements (if-else, switch)
 - ✅ Loops
 - ✅ Pattern Programs
+- ✅ Functions
 
 ### 🚀 Upcoming Topics
 
