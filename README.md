@@ -13,6 +13,8 @@ This repository contains all the Java programs I write while learning Java. It i
 - ✅ Loops
 - ✅ Pattern Programs
 - ✅ Functions
+- ✅ Array's
+- ✅ String's
 
 ### 🚀 Upcoming Topics
 
