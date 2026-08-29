@@ -16,8 +16,6 @@ This repository contains all the Java programs I write while learning Java. It i
 
 ### 🚀 Upcoming Topics
 
-- Arrays
-- Strings
 - Bit Manipulation
 - OOP (Object-Oriented Programming)
 - Recursion
