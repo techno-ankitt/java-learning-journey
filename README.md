@@ -38,6 +38,10 @@ java-learning-journey
 ├── 02-Conditional-Statements
 ├── 03-Loops
 ├── 04-Pattern-Programs
+├── 05-Functions
+├── 06-Array's
+├── 07-String's
+├── 08-Operator's & Number System
 │
 └── README.md
 ```
@@ -70,9 +74,10 @@ The goal of this repository is to:
 - ✅ Conditional Statements
 - ✅ Loops
 - ✅ Pattern Programs
-- ⏳ Functions
-- ⏳ Arrays
-- ⏳ Strings
+- ✅ Functions
+- ✅ Arrays
+- ✅ Strings
+- ✅ Operators
 - ⏳ OOP
 - ⏳ Exception Handling
 - ⏳ Collections
