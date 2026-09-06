@@ -15,6 +15,7 @@ This repository contains all the Java programs I write while learning Java. It i
 - ✅ Functions
 - ✅ Array's
 - ✅ String's
+- ✅ Operator's & Number System
 
 ### 🚀 Upcoming Topics
 
